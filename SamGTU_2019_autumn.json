@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2019_autumn",
-    "Version": 4,
+    "Version": 5,
 
     "Weeks": [
         {
@@ -258,6 +258,10 @@
                             "Periodicity": []
                         }                                  
                     ]
+                },
+                
+                {
+                    "Lessons": [ ]
                 }
             ]
         }
