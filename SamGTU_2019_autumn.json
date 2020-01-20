@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2019_autumn",
-    "Version": 1,
+    "Version": 2,
 
     "Weeks": [
         {
@@ -8,30 +8,36 @@
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         }                                
                     ]
                 },
@@ -39,30 +45,36 @@
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         }                                
                     ]
                 },
@@ -70,155 +82,185 @@
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
-                        }                                
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }                                 
                     ]
                 },
 
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
-                        }                                
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }                            
                     ]
                 },
 
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
-                        }                                
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }                         
                     ]
                 },
 
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
-                        }                                
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }                                  
                     ]
                 },
 
                 {
                     "Lessons": [
                         {
-                            "Time": "8:00",
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
                             "Name": "name1",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },
         
                         {
-                            "Time": "9:45",
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
                             "Name": "name2",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
+                            "Classroom": 305,
+                            "Periodicity": []
                         },                    
                         
                         {
-                            "Time": "11:30",
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
                             "Teacher": "teacher_name",
-                            "Classroom": 305
-                        }                                
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }                            
                     ]
                 }
             ]
