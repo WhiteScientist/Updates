@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2019_autumn",
-    "Version": 2,
+    "Version": 3,
 
     "Weeks": [
         {
@@ -27,11 +27,33 @@
                             "Teacher": "teacher_name",
                             "Classroom": 305,
                             "Periodicity": []
-                        },                    
+                        },         
                         
-                        {
+                                                {
                             "TimeStart": "11:30",
                             "TimeEnd": "13:05",
+                            "Name": "name1",
+                            "BackgroundColor": "#82b92c",
+                            "Description": "description",
+                            "Teacher": "teacher_name",
+                            "Classroom": 305,
+                            "Periodicity": []
+                        },
+        
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "name2",
+                            "BackgroundColor": "#82b92c",
+                            "Description": "description",
+                            "Teacher": "teacher_name",
+                            "Classroom": 305,
+                            "Periodicity": []
+                        },     
+                        
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
                             "Name": "name3",
                             "BackgroundColor": "#82b92c",
                             "Description": "description",
