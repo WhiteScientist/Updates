@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2019_autumn",
-    "Version": 6,
+    "Version": 7,
 
     "Weeks": [
         {
@@ -70,7 +70,7 @@
                             "TimeStart": "8:00",
                             "TimeEnd": "9:35",
                             "Name": "name1",
-                            "BackgroundColor": "#82b92c",
+                            "BackgroundColor": "#FF0000",
                             "Description": "description",
                             "Teacher": "teacher_name",
                             "Classroom": "305",
