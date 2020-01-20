@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2019_autumn",
-    "Version": 3,
+    "Version": 4,
 
     "Weeks": [
         {
@@ -10,11 +10,11 @@
                         {
                             "TimeStart": "8:00",
                             "TimeEnd": "9:35",
-                            "Name": "name1",
+                            "Name": "Формально-логические системы",
                             "BackgroundColor": "#82b92c",
-                            "Description": "description",
-                            "Teacher": "teacher_name",
-                            "Classroom": 305,
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": 8/111,
                             "Periodicity": []
                         },
         
@@ -97,7 +97,18 @@
                             "Teacher": "teacher_name",
                             "Classroom": 305,
                             "Periodicity": []
-                        }                                
+                        },
+                        
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "name3",
+                            "BackgroundColor": "#82b92c",
+                            "Description": "description",
+                            "Teacher": "teacher_name",
+                            "Classroom": 305,
+                            "Periodicity": []
+                        }  
                     ]
                 },
 
