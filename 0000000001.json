@@ -1,0 +1,40 @@
+{
+    "Name": "SamGTU_2019_autumn",
+    "Version": 8,
+
+    "Weeks": [
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Формально-логические системы",
+                            "BackgroundColor": "#82b92c",
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/111",
+                            "Periodicity": []
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ ]
+                },
+                {
+                    "Lessons": [ ]
+                },
+
+                {
+                    "Lessons": [ ]
+                },
+                
+                {
+                    "Lessons": [ ]
+                }
+            ]
+        }
+    ]
+}
