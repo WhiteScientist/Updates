@@ -1,0 +1,381 @@
+{
+    "Name": "SamGTU_IB_autumn_2019",
+    "Version": 1,
+
+    "Info": "Лекции - #CC0073 Практики - #FFFF00 Лабы- #9EEE00",
+
+    "Weeks": [
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Социология",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "8/305",
+                            "Periodicity": [ ]
+                        },
+
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Формально-логические системы",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "1/403а",
+                            "Periodicity": [ ]
+                        },
+
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "1/403а",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Информатика",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Информатика",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Социология",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "Недели: 3, 7, 11, 15",
+                            "Teacher": "",
+                            "Classroom": "10/104",
+                            "Periodicity": [ 3, 7, 11, 15 ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Экономика",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "10/107",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Философия",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Малышев В.Б.",
+                            "Classroom": "10/107",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Теория вероятности",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "8/208",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Дискретная математика",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Прохорова О.В.",
+                            "Classroom": "1/434",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Формально-логические системы",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Формально-логические системы",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Теория вероятности",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "8/305",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+                
+                {
+                    "Lessons": [ 
+
+                    ]
+                }
+            ]
+        },
+
+{
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Экономика",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "12/505",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Информатика",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/208",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Информатика",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Ворожейкин В.Н.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Теория вероятности",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "8/306",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Формально-логические системы",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Философия",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "Третий этаж, направо",
+                            "Teacher": "Малышев В.Б.",
+                            "Classroom": "6/62",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Дискретная математика",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "",
+                            "Classroom": "8/301",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Схемотихника",
+                            "BackgroundColor": "#9EEE00",
+                            "Description": "Недели: 4, 8, 12, 16",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 4, 8, 12, 16 ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "name",
+                            "BackgroundColor": "#9EEE00",
+                            "Description": "Недели: 4, 8, 12, 16",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 4, 8, 12, 16 ]
+                        }
+                     ]
+                },
+                
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Схемотихника",
+                            "BackgroundColor": "#CC0073",
+                            "Description": "",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "name",
+                            "BackgroundColor": "#FFFF00",
+                            "Description": "",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+
+                {
+                    "Lessons": [
+
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+
+                     ]
+                }
+            ]
+        }
+    ]
+}
