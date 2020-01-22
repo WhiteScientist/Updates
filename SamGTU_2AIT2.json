@@ -1,10 +1,56 @@
 {
     "Name": "SamGTU_2AIT2_spring_2020_beta",
-    "Version": 1,
+    "Version": 2,
     
     "Info": "Лекции - #93AEEA Практики - #FFE773 Лабы- #B9F63E",
 
     "Weeks": [
+
+        {
+            "Days": [
+                {
+                    "Lessons": [
+
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+                {
+                    "Lessons": [
+
+                     ]
+                },
+
+                {
+                    "Lessons": [
+
+                     ]
+                },
+                
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+
+                {
+                    "Lessons": [
+
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+
+                     ]
+                }
+            ]
+        },
+
         {
             "Days": [
                 {
@@ -203,51 +249,6 @@
                     "Lessons": [ 
 
                     ]
-                }
-            ]
-        },
-
-{
-            "Days": [
-                {
-                    "Lessons": [
-
-                    ]
-                },
-        
-                {
-                    "Lessons": [ 
-
-                    ]
-                },
-                {
-                    "Lessons": [
-
-                     ]
-                },
-
-                {
-                    "Lessons": [
-
-                     ]
-                },
-                
-                {
-                    "Lessons": [ 
-
-                    ]
-                },
-
-                {
-                    "Lessons": [
-
-                     ]
-                },
-                
-                {
-                    "Lessons": [
-
-                     ]
                 }
             ]
         }
