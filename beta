@@ -1,0 +1,392 @@
+{
+    "Name": "SamGTU_2AIT2_spring_2020",
+    "Id": 1,
+    
+    "Info": "Лекции - #93AEEA Практики - #FFE773 Лабы- #B9F63E",
+
+    "Weeks": [
+
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Документоведение",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Документоведение",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Криптография",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Чуваков А.В.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Криптография",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Чуваков А.В.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Метрология",
+                            "BackgroundColor": "#B9F63E",
+                            "Description": "Лаб.",
+                            "Teacher": "Корганова О.Г.",
+                            "Classroom": "8/412",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Метрология",
+                            "BackgroundColor": "#B9F63E",
+                            "Description": "Лаб.",
+                            "Teacher": "Бочкарев А.В.",
+                            "Classroom": "8/412",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+                {
+                    "Lessons": [
+
+                     ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Защита документов",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Защита документов",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": " Жаринова И.А.",
+                            "Classroom": "1/225а",
+                            "Periodicity": [ ]
+                        }                     
+                    ]
+                },
+                
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Метрология",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Сайфуллин Р.Т.",
+                            "Classroom": "1/432",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        }                     
+                    ]
+                },
+
+                {
+                    "Lessons": [
+
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+
+                     ]
+                }
+            ]
+        },
+
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#B9F63E",
+                            "Description": "Лаб. Недели: 24, 28, 32, 36",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 24, 28, 32, 36 ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#B9F63E",
+                            "Description": "Лаб. Недели: 24, 28, 32, 36",
+                            "Teacher": "Гаспаров Э.С.",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 24, 28, 32, 36 ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Информационная безопастность",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Карпова Н.Е.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Жаринова И.А.",
+                            "Classroom": "1б/11",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Жаринова И.А.",
+                            "Classroom": "1б/11",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Криптография",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Чуваков А.В.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "17:05",
+                            "TimeEnd": "18:40",
+                            "Name": "Криптография",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Чуваков А.В.",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        }
+
+                    ]
+                },
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Метрология",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Сайфуллин Р.Т.",
+                            "Classroom": "1/432",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Социология",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Гридина В.В.",
+                            "Classroom": "8/301",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Защита документов",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Защита документов",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Жаринова И.А.",
+                            "Classroom": "10/202",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лек.",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Схемотехника",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Свиридов В.П.",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Документирование",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Пр.",
+                            "Teacher": "Андреева Н.В.",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+                
+                {
+                    "Lessons": [ 
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
