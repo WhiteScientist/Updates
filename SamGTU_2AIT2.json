@@ -1,0 +1,392 @@
+{
+    "Name": "SamGTU_2AIT2_2020_spring",
+    "Id": 1,
+    
+    "Info": "Лекции - #93AEEA Практики - #FFE773 Лабы- #96B951",
+
+    "Weeks": [
+
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Основы управления информационной безопасностью",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Карпова Надежда Евгеньевнаа",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Основы управления информационной безопасностью",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Карпова Надежда Евгеньевна",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Документоведение",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Документоведение",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Криптографические методы защиты информации",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Чуваков Александр Владимирович",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Криптографические методы защиты информации",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Чуваков Александр Владимирович",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Метрология, стандартизация и сертификация",
+                            "BackgroundColor": "#96B951",
+                            "Description": "Лабораторная работа. Второй преподаватель Бочкарев Андрей Владимирович",
+                            "Teacher": "Корганова Ольга Георгиевна",
+                            "Classroom": "8/412",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Метрология, стандартизация и сертификация",
+                            "BackgroundColor": "#96B951",
+                            "Description": "Лабораторная работа. Второй преподаватель Бочкарев Андрей Владимирович",
+                            "Teacher": "Корганова Ольга Георгиевна",
+                            "Classroom": "8/412",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+                {
+                    "Lessons": [
+
+                     ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Защита и обработка конфиденциальных документов",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Защита и обработка конфиденциальных документов",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": " Жаринова Ирина Александровна",
+                            "Classroom": "1/225а",
+                            "Periodicity": [ ]
+                        }                     
+                    ]
+                },
+                
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Метрология, стандартизация и сертификация",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Сайфуллин Раухат Талгатович",
+                            "Classroom": "1/432",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        }                     
+                    ]
+                },
+
+                {
+                    "Lessons": [
+
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+
+                     ]
+                }
+            ]
+        },
+
+        {
+            "Days": [
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#96B951",
+                            "Description": "Лабораторная работа. Второй преподаватель Гаспаров Эрик Сергеевич. Проводится на неделях 24, 28, 32, 36",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 24, 28, 32, 36 ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#96B951",
+                            "Description": "Лабораторная работа. Второй преподаватель Гаспаров Эрик Сергеевич. Проводится на неделях 24, 28, 32, 36",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/107",
+                            "Periodicity": [ 24, 28, 32, 36 ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Основы управления информационной безопасностью",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Карпова Надежда Евгеньевна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Основы управления информационной безопасностью",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Карпова Надежда Евгеньевна",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        }
+                    ]
+                },
+        
+                {
+                    "Lessons": [ 
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Жаринова Ирина Александровна",
+                            "Classroom": "1б/11",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Жаринова Ирина Александровна",
+                            "Classroom": "1б/11",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Криптографические методы защиты информации",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Чуваков Александр Владимирович",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "17:05",
+                            "TimeEnd": "18:40",
+                            "Name": "Криптографические методы защиты информации",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Чуваков Александр Владимирович",
+                            "Classroom": "8/109",
+                            "Periodicity": [ ]
+                        }
+
+                    ]
+                },
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "8:00",
+                            "TimeEnd": "9:35",
+                            "Name": "Метрология, стандартизация и сертификация",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Сайфуллин Раухат Талгатович",
+                            "Classroom": "1/432",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Социология",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Гридина Вера Валерьевна",
+                            "Classroom": "8/301",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Защита и обработка конфиденциальных документов",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Защита и обработка конфиденциальных документов",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+                
+                {
+                    "Lessons": [
+                        {
+                            "TimeStart": "9:45",
+                            "TimeEnd": "11:20",
+                            "Name": "Английский",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Жаринова Ирина Александровна",
+                            "Classroom": "10/202",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "11:30",
+                            "TimeEnd": "13:05",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#93AEEA",
+                            "Description": "Лекция",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "13:35",
+                            "TimeEnd": "15:10",
+                            "Name": "Схемотехника радиоэлектронных устройств",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Свиридов Вячеслав Павлович",
+                            "Classroom": "8/111",
+                            "Periodicity": [ ]
+                        },
+                        {
+                            "TimeStart": "15:20",
+                            "TimeEnd": "16:55",
+                            "Name": "Документирование",
+                            "BackgroundColor": "#FFE773",
+                            "Description": "Практические занятия",
+                            "Teacher": "Андреева Наталья Викторовна",
+                            "Classroom": "8/113",
+                            "Periodicity": [ ]
+                        }
+                     ]
+                },
+
+                {
+                    "Lessons": [ 
+
+                    ]
+                },
+                
+                {
+                    "Lessons": [ 
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
