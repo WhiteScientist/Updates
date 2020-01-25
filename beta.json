@@ -1,6 +1,6 @@
 {
     "Name": "SamGTU_2AIT2",
-    "Id": 3,
+    "Id": 4,
     
     "Info": "Лекции - #93AEEA Практики - #FFE773 Лабы- #B9F63E",
 
@@ -108,7 +108,7 @@
                         {
                             "TimeStart": "9:45",
                             "TimeEnd": "11:20",
-                            "Name": "Защита документов (test)",
+                            "Name": "Защита документов",
                             "BackgroundColor": "#93AEEA",
                             "Description": "Лек.",
                             "Teacher": "Андреева Н.В.",
